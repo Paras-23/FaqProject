@@ -1,0 +1,7 @@
+pip install django-ckeditor redis googletrans==4.0.0-rc1
+pip install django-redis
+pip install googletrans==4.0.0-rc1
+$env:DJANGO_SETTINGS_MODULE="FaqProject.settings"
+
+
+Superuser - paras23, Pingu@2310
